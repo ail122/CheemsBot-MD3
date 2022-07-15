@@ -42,22 +42,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['6289516947204'] //ur owner number
-global.ownername = "Iyan_fc"
+global.ownername = "𝚒𝚢𝚊𝚗-𝚏𝚌"
 global.ytname = "YT: iyan" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "Iyan-md" //ur bot name
+global.botname = "𝚒𝚢𝚊𝚗-md" //ur bot name
 global.websitex = "https://saweria.co/IyanMd" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.author = "🦄Dream Guy 𝙸𝚢𝚊𝚗"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['6289516947204'] //ur owner tag
 global.ownernummenu = ['6289516947204'] //ur owner number in menu and all
-global.watermark = "Iyan Bot Inc." //ur watermark
+global.watermark = "𝚁𝙲𝚃𝙸 𝙱𝙾𝚃." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
 global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
